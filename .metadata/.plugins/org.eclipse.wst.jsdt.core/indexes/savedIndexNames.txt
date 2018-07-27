@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+F:\Webservice SOA WS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2485515988.index
+1752932559.index
+1663036459.index
+2582912110.index
+620622145.index
+2380175872.index
+827400522.index

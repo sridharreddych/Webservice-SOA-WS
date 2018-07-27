@@ -1,0 +1,3 @@
+#GlassFish 3
+#Sun Nov 27 12:39:51 IST 2016
+org.eclipse.jst.jee.server\:Testmart=C\:\\Users\\Sridhar reddy\\Downloads\\java_ee_sdk-7u2\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\Testmart

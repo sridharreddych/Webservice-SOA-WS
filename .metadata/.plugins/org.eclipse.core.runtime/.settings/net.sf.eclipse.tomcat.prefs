@@ -1,0 +1,9 @@
+contextsDir=C\:\\Program Files\\Apache Software Foundation\\apache-tomcat-8.0.26\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/manager
+projectsInCp=IPLocationFinder;
+projectsInSourcePath=HelloWorld;IPLocationFinder;
+tomcatConfigFile=C\:\\Program Files\\Apache Software Foundation\\apache-tomcat-8.0.26\\conf\\server.xml
+tomcatDir=C\:\\Program Files\\Apache Software Foundation\\apache-tomcat-8.0.26
+tomcatJRE=1478969542011
+tomcatVersion=tomcatV8
